@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "35e1b404ba06d7dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "efdf1a580698f0ea",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e13b821d429ae0d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bbf36e0fbc261c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4fb2550189d8c14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97753f324d9b64cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b76bbc31bf454edb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7df9fe70b4ec425",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9dc44daeea279cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "efdf1a580698f0ea",
+  "lastOpenFiles": [
+    "cheetsheets/markdown.md",
+    "cheetsheets/cheetsheets.md",
+    "programming/bash/bash.md",
+    "networking/assets/images/internet.png"
+  ]
+}
